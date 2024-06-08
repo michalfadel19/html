@@ -1,0 +1,38 @@
+img {
+	width:350px;
+	border: 2px solid black;
+	border-radius: 8px;
+}
+
+body{
+	background-image:linear-gradient(to bottom, #00ccff 0%, #ffffff 100%);
+   font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.blue{
+	color:#000099;
+	
+}
+
+.big_font{
+	font-size:48px;
+}
+
+.big_font2{
+	font-size:30px;
+}
+
+.dm-serif display-regular {
+  font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#special_style {
+	color:#000099;
+	border:1.5px #3366ff;
+	font-family: arial;
+}
+
